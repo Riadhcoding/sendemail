@@ -6,7 +6,7 @@ pw = ("ENTRE PASSWORD : ")
 # pw = "**********"
 s_email = ("SEND TO EMAIL : ")
 # s_email = "email@gamil.com"
-msg = ("MESSAGE: ")
+msg = input ("MESSAGE: ")
 
 
 server = smtplib.SMTP('smtp.gmail.com:587')
