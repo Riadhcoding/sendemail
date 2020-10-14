@@ -1,4 +1,4 @@
-# sendemail
+# Sende Email using Python
 
 #send email in python
 
