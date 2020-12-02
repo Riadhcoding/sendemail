@@ -1,8 +1,8 @@
 import smtplib
 # Comments that you want to send specific information every time
-i = ("ENTRE YOUR EMAIL : ")
+i = ("ENTER YOUR EMAIL : ")
 # i = "email@gamil.com"
-pw = ("ENTRE PASSWORD : ")
+pw = ("ENTER PASSWORD : ")
 # pw = "**********"
 s_email = ("SEND TO EMAIL : ")
 # s_email = "email@gamil.com"
